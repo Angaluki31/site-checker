@@ -1,0 +1,4 @@
+# my sites
+https://github.com
+https://google.com
+https://this-site-does-not-exist-12345.com
